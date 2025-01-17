@@ -1,4 +1,4 @@
-### Wordle Game
+# Wordle Game
 
 ## How to Run the Game
 * Right-click on the index.html file.
